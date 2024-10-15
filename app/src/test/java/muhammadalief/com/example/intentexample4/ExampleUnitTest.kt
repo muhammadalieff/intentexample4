@@ -1,4 +1,4 @@
-package srimulyaniadha.com.example.intentexample4
+package muhammadalief.com.example.intentexample4
 
 import org.junit.Test
 

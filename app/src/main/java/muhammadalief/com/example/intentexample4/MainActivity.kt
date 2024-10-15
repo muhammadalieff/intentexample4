@@ -1,4 +1,4 @@
-package srimulyaniadha.com.example.intentexample4
+package muhammadalief.com.example.intentexample4
 
 import android.content.Intent
 import android.net.Uri
@@ -6,6 +6,8 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.Menu
 import android.view.MenuItem
+import srimulyaniadha.com.example.intentexample4.R
+
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
